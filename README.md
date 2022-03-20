@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @kunnduu
-- 👀 I’m interested in ...Data science
-- 🌱 I’m currently learning ...Machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @kunnduu Sophmore at VIT Vellore
+- 👀 I’m interested in Data science mainly in exploring data
+- 🌱 I’m currently learning Statistics and Machine learning
 
 <!---
 kunnduu/kunnduu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
