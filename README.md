@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kunnduu Sophmore at VIT Vellore
-- 👀 I’m interested in Data science mainly in exploring data
+- 👀 I’m interested in Data science mainly in exploring and analyzing data
 - 🌱 I’m currently learning Statistics and Machine learning
 
 <!---
